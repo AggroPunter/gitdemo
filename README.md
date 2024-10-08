@@ -1,3 +1,3 @@
 # gitdemo
 
-Author --Abhinay
+Author --Abhinay Thoutam
